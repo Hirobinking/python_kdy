@@ -60,7 +60,7 @@ import random
 import random
 
 def getRandomNum():
-    return random.randint(1,100)
+    return random.randintz(1,100)
 
 num = getRandomNum()
 print(num)
